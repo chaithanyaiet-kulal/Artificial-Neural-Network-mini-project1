@@ -54,8 +54,12 @@ Understanding the concept of competitive learning
 Implementing the algorithm from scratch
 Choosing appropriate parameters for better performance
 
-Conclusion
+**Conclusion**
 
 Through this project, we were able to understand the basics of neural networks
 and how different models work. It also helped us gain practical experience in implementing machine learning 
 algorithms.
+
+
+**Repository link**
+https://github.com/chaithanyaiet-kulal/Artificial-Neural-Network-mini-project1.git
