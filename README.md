@@ -1,34 +1,36 @@
-Artificial Neural Network mini project
+**Artificial Neural Network mini project**
 
-Team Members
+**Team Members**
 
 Aliya Ansar-01SU24AI001
+
 Arpitha RaiKV-01SU24AI017
+
 Chaithanya - 01SU24AI020
+
 Mithra Sunil -01SU24AI050
 
 
 
-Project Description
+**Project Description**
 
 This mini project focuses on implementing basic Artificial Neural Network (ANN) models using Python. 
 The aim is to understand how different neural network techniques work and how they can be used for
 simple classification and pattern recognition tasks.
 
-Models Implemented
+**Models Implemented**
 
-1. Perceptron Model
+**1**. Perceptron Model
 A simple single-layer neural network used for classification. It was implemented using the Iris dataset and evaluated based on accuracy.
 
-2. Competitive Learning Network
+**2**. Competitive Learning Network
 An unsupervised learning model where neurons compete to represent input data. This was implemented from scratch using NumPy and tested on 2D data.
 
-3. Feedforward Neural Network
+**3**.Feedforward Neural Network
+A multi-layer neural network consisting of input, hidden, and output layers. It was used for classification tasks and trained using available datasets.
 
-4.A multi-layer neural network consisting of input, hidden, and output layers. It was used for classification tasks and trained using available datasets.
-
-Tools and Technologies
-Python – Used as the main programming language for implementing all models.
+**Tools and Technologies**
+**.**Python – Used as the main programming language for implementing all models.
 
 NumPy – Used for numerical operations, array handling, and implementing the competitive learning algorithm.
 
@@ -41,7 +43,7 @@ Google Colab – Used as the development environment to write, run, and test the
 GitHub – Used for version control, collaboration among team members, and project submission.
 
 
-Results
+**Results**
 
 
 The perceptron model achieved good accuracy on the dataset used.
