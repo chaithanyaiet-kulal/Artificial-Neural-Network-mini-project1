@@ -9,7 +9,6 @@ Mithra Sunil -01SU24AI050
 
 
 
-
 Project Description
 
 This mini project focuses on implementing basic Artificial Neural Network (ANN) models using Python. 
